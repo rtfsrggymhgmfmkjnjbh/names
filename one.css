@@ -1,0 +1,40 @@
+#make{
+    background-color: pink;
+    color:black
+}
+
+#boil{
+    background-color: aqua;
+    color:black
+}
+
+.food-item{
+    background-color:pink;
+}
+
+.ingrediants{
+    background-color: aqua;
+}
+
+#curry{
+    background-color: aqua;
+}
+
+#chapathi{
+    background-color: antiquewhite;
+}
+
+#parota{
+    background-color: aquamarine;
+}
+#biryani{
+    background-color: brown;
+}
+
+#making{
+    background-color: antiquewhite;
+}
+
+.calories{
+    background-color:paleturquoise;
+}
